@@ -1,1 +1,1 @@
-Developed the SQL project which facilitates efficient management and retrieval of car-related information, enabling both managers and clients to make informed decisions based on the available data.
+Developed a SQL project, where I managed the database for a car dealership.The task involved creating and querying a schema to handle car inventory data for various data analysis needs.The main aim is to manage and understand car inventory data to meet both client and management goals effectively.
